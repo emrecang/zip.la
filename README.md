@@ -1,1 +1,1 @@
-# GameMaker oyun motoru ve Game Maker Language(GML) dilinde Endless Runner (Sonsuz koşu) konseptinde Bir Gecede Bir Proje isimli etkinlikte geliştirdiğim bir oyundur.
+# Bu oyun GameMaker oyun motoru ve Game Maker Language(GML) kullanılarak geliştirilmiştir. Bir Gecede Bir Proje isimli etkinlikte gece saat 12den sabah 6 ya kadar Endless Runner (Sonsuz koşu) konseptinde tek başıma geliştirdiğim bir oyundur.
